@@ -1,0 +1,12 @@
+{
+    "email": "thomas.rupp1914@gmail.com",
+    "password": "",
+    "products": ["https://www.newegg.com/asus-geforce-rtx-3080-tuf-rtx3080-o10g-gaming/p/N82E16814126452?Description=rtx%203080&cm_re=rtx_3080-_-14-126-452-_-Product", 
+        "https://www.newegg.com/evga-geforce-rtx-3080-10g-p5-3885-kr/p/N82E16814487520?Description=rtx%203080&cm_re=rtx_3080-_-14-487-520-_-Product",
+        "https://www.newegg.com/msi-geforce-rtx-3080-rtx-3080-gaming-x-trio-10g/p/N82E16814137597?Description=rtx%203080&cm_re=rtx_3080-_-14-137-597-_-Product",
+        "https://www.newegg.com/gigabyte-geforce-rtx-3080-gv-n3080gaming-oc-10gd/p/N82E16814932329?Description=rtx%203080&cm_re=rtx_3080-_-14-932-329-_-Product",
+        "https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391?Description=6800xt&cm_re=6800xt-_-14-202-391-_-Product",
+        "https://www.newegg.com/asus-radeon-rx-6800-xt-tuf-rx6800xt-o16g-gaming/p/N82E16814126476?Description=6800xt&cm_re=6800xt-_-14-126-476-_-Product",
+        "https://www.newegg.com/powercolor-radeon-rx-6800-xt-axrx-6800xt-16gbd6-2dhce-oc/p/N82E16814131767?Description=6800xt&cm_re=6800xt-_-14-131-767-_-Product"
+    ]
+}
